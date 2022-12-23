@@ -1,3 +1,6 @@
+//This is from leetcode where it only asks to get first group of letters that are the same in both strings, I can do two tests but then when the strings are of the same length, it doesnt work. This is my attempt.
+
+
 #include <iostream>
 #include <cmath>
 #include <vector>
